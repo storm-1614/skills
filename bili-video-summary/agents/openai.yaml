@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bilibili 视频总结"
+  short_description: "抓取 Bilibili 字幕或转写，生成保留细节与时间戳的详细视频总结"
+  default_prompt: "使用 $bili-video-summary 总结这个 Bilibili 视频，并保留关键细节与时间戳。"

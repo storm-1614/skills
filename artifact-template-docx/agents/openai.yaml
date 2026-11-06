@@ -1,0 +1,7 @@
+interface:
+  display_name: "教材习题作业稿 DOCX"
+  short_description: "Create documents with the 教材习题作业稿 DOCX template"
+  icon_large: "./assets/preview.png"
+  default_prompt: "Use $artifact-template-docx to create a document with this template."
+policy:
+  allow_implicit_invocation: true

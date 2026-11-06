@@ -1,0 +1,11 @@
+# Credentials and local authentication files
+credentials.json
+.sessdata
+*.cookie
+.env
+.env.*
+
+# Runtime artifacts and Python cache
+output/
+__pycache__/
+*.py[cod]
